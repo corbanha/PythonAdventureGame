@@ -1,0 +1,48 @@
+Corban
+88
+3596
+14014
+40
+10
+Fancy Door Frame Weapon
+
+14
+3
+0
+38
+Old Sword Potion
+
+14
+0
+7
+1
+Worthless Bow and Arrow Potion
+
+25
+0
+7
+1
+New Baseball Bat Weapon
+
+82
+11
+0
+212
+Expensive Mittins Weapon
+
+315
+25
+0
+1086
+Stylish Juice Potion
+
+687
+0
+26
+1
+Sleek Toothpaste Weapon
+
+1262
+49
+0
+4696
